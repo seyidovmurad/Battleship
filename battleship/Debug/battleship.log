@@ -1,0 +1,4 @@
+﻿  Bot.cpp
+C:\Users\01mur\source\repos\battleship\battleship\Bot.cpp(183,24): warning C4309: '=': truncation of constant value
+C:\Users\01mur\source\repos\battleship\battleship\Bot.cpp(192,24): warning C4309: '=': truncation of constant value
+  battleship.vcxproj -> C:\Users\01mur\source\repos\battleship\Debug\battleship.exe
